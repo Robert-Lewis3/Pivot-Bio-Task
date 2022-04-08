@@ -1,3 +1,3 @@
-# My-New-Repository
-This is simply for learning purposes
-Follow along on my journey!
+# Pivot-Bio-Exercises
+
+This respository contains the data, code and documentation for the Data Analyst Task for Pivot Bio
